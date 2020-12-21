@@ -23,7 +23,7 @@ public class Test {
 				// make a pause before end command
 				// hopefully sending of the other requests is completed
 				try {
-					Thread.sleep(10000);
+					Thread.sleep(20000);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}	
